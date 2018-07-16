@@ -1,5 +1,11 @@
 package abstract_classes.farm;
 
-public class Horse {
+public class Horse extends Animal {
+
+	@Override
+	void makeNoise() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
