@@ -4,8 +4,7 @@ public class Horse extends Animal {
 
 	@Override
 	void makeNoise() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Come to Candy Mountain Charlie!");
 	}
 
 }

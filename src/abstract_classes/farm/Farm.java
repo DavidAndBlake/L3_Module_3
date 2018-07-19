@@ -14,7 +14,8 @@ farm.add(new Horse());
 farm.add(new Cat());
 farm.add(new Dog());
 	for (int i = 0; i < farm.size(); i++) {
-		
+		 farm.get(i).eat();
+		 farm.get(i).makeNoise();
 	}
 	}
 
