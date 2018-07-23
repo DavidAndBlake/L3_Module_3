@@ -1,4 +1,6 @@
 
-public interface TextFunkifier {
+public interface TextFunkifier{
 
+	String funkifyText(String funkyText);
+	
 }
